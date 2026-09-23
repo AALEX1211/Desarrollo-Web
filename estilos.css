@@ -89,3 +89,20 @@ p {
 .boton-volver:hover {
     background-color: #5a6268;
 }
+/* Botón de regresar */
+.boton-volver {
+    display: inline-block;
+    text-align: center;
+    background-color: #6c757d;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.boton-volver:hover {
+    background-color: #5a6268;
+}
